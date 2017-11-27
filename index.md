@@ -89,10 +89,10 @@ Conjugate the four forms of だ for the following nouns.
 
 5. 学生
 
-   「学生だ。」  
-   「学生ではない。」  
-   「学生だった。」  
-   「学生ではなかった。」  
+   「学生だ。」  
+   「学生ではない。」  
+   「学生だった。」  
+   「学生ではなかった。」  
    
 ##### Conjugation Exercise 2:
 
