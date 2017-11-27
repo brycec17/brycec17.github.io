@@ -115,19 +115,11 @@ Translate the following English sentences into Japanese.
 
 The yes or no（はい or いいえ）answer will be given to the following questions. Complete the rest of the questions, including conjugating 「だ」.
 
-1a. 友達？
-1b. はい、「友達だ。」
-2a. 学校？
-2b. いいえ、「学校ではない。」
-3a. それだった？
-3b. いいえ、「それではなかった。」
-4a. そう？
-4b. はい、「そうだ。」
-5a. それ？
-5b. いいえ、「これではない。」
-6a. 先生だった？
-6b. はい、「先生だった。」
-7a. 小学校だった？
-7b. いいえ、「小学校ではなかった。」
-8a. 子供？
-8b. はい、「子供だ。」
+1. 友達？　「はい、友達だ。」
+2. 学校？　「いいえ、学校ではない。」
+3. それだった？　「いいえ、それではなかった。」
+4. そう？　「はい、そうだ。」
+5. それ？　「いいえ、これではない。」
+6. 先生だった？　「はい、先生だった。」
+7. 小学校だった？　「いいえ、小学校ではなかった。」
+8. 子供？　「はい、子供だ。」
