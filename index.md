@@ -56,13 +56,16 @@ Vocabulary:
 19. 大学（だいがく）- college
 
 Conjugation Exercise 1:
+
 Conjugate the four forms of だ for the following nouns.
+
 1. これ
 
    これだ。
    これではない。
    これだった。
    これではなかった。
+   
 2. 大人
 
    大人だ。
