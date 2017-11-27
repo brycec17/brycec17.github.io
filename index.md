@@ -16,3 +16,11 @@ Examples:
 1. 魚ではない。   Is not fish.
 2. 学生ではない。 Is not student.
 3. 静かではない。 Is not quiet.
+
+The past tense form of 「だ」is 「だった」and the past tense form of 「ではない」is 「ではなかった」.
+
+Examples:
+1. 友達だった。   Was friend.
+2. 魚だった。   Was fish.
+3. 学生ではなかった。  Was not student.
+4. 静かではなかった。  Was not quiet.
