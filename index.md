@@ -89,24 +89,24 @@ Conjugate the four forms of だ for the following nouns.
 
 5. 学生
 
-   **学生だ。**  
-   **学生ではない。**  
-   **学生だった。**  
-   **学生ではなかった。**  
+   「学生だ。」  
+   「学生ではない。」  
+   「学生だった。」  
+   「学生ではなかった。」  
    
 ##### Conjugation Exercise 2:
 
 Translate the following English sentences into Japanese.
 
-1. Is college - **大学だ。**
-2. Is not high school - **高校ではない。**
-3. Was teacher - **先生だった。**
-4. Is adult - **大人だ。**
-5. Was not child - **子供ではなかった。**
-6. This was the way it was - **こうだった。**
-7. Wasn't that over there - **あそれではなかった。**
-8. Is not middle school - **中学校ではない。**
-9. Is friend - **友達だ。**
-10. Is not car - **車ではない。**
-11. Was this - **これだった。**
-12. That's not the way it is - **そうではない。**
+1. Is college - 「大学だ。」
+2. Is not high school - 「高校ではない。」
+3. Was teacher - 「先生だった。」
+4. Is adult - 「大人だ。」
+5. Was not child - 「子供ではなかった。」
+6. This was the way it was - 「こうだった。」
+7. Wasn't that over there - 「あそれではなかった。」
+8. Is not middle school - 「中学校ではない。」
+9. Is friend - 「友達だ。」
+10. Is not car - 「車ではない。」
+11. Was this - 「これだった。」
+12. That's not the way it is - 「そうではない。」
