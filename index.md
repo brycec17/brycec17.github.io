@@ -110,3 +110,24 @@ Translate the following English sentences into Japanese.
 10. Is not car - 「車ではない。」
 11. Was this - 「これだった。」
 12. That's not the way it is - 「そうではない。」
+
+##### Question and Answer Exercise:
+
+The yes or no（はい or いいえ）answer will be given to the following questions. Complete the rest of the questions, including conjugating 「だ」.
+
+1a. 友達？
+1b. はい、「友達だ。」
+2a. 学校？
+2b. いいえ、「学校ではない。」
+3a. それだった？
+3b. いいえ、「それではなかった。」
+4a. そう？
+4b. はい、「そうだ。」
+5a. それ？
+5b. いいえ、「これではない。」
+6a. 先生だった？
+6b. はい、「先生だった。」
+7a. 小学校だった？
+7b. いいえ、「小学校ではなかった。」
+8a. 子供？
+8b. はい、「子供だ。」
