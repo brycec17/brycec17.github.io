@@ -24,3 +24,9 @@ Examples:
 2. 魚だった。   Was fish.
 3. 学生ではなかった。  Was not student.
 4. 静かではなかった。  Was not quiet.
+
+Summary:
+|            | Present | Past      |
+|------------|:-------:|:---------:|
+|**Positive**|だ　　　  |だった     |
+|**Negative**|ではない  |ではなかった|
