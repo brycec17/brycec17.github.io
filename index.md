@@ -1,8 +1,8 @@
 # Index
 
-[1.1 State of Being](#11-state-of-being)
+[1.1 State of Being](/lessons/1-1.md)
 
-[1.2 Particles](#12-particles)
+[1.2 Particles](/lessons/1-2.md)
 
 # 1.1 State of Being
 ### Lesson
