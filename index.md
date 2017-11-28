@@ -1,5 +1,7 @@
 # Index
+
 [1.1 State of Being](#1.1)
+
 [1.2 Particles](#1.2)
 
 ## 1.1 State of Being
