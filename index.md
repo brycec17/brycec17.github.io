@@ -1,10 +1,10 @@
 # Index
 
-[1.1 State of Being](#1.1)
+[1.1 State of Being](#1.1 State of Being)
 
-[1.2 Particles](#1.2)
+[1.2 Particles](#1.2 Particles)
 
-## 1.1 State of Being
+# 1.1 State of Being
 ### Lesson
 
 In Japanese, there is no verb to declare a state of being like there is "to be" in English. Instead, the word 「だ」is attached to the end of a noun or な-adjective.
@@ -127,4 +127,4 @@ The yes or no（はい or いいえ）answer will be given to the following ques
 7. 小学校だった？　「いいえ、小学校ではなかった。」
 8. 子供？　「はい、子供だ。」
 
-## 1.2 Particles
+# 1.2 Particles
