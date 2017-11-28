@@ -1,5 +1,6 @@
 # Index
 [1.1 State of Being](#1.1)
+[1.2 Particles](#1.2)
 
 ## 1.1 State of Being
 ### Lesson
@@ -123,3 +124,5 @@ The yes or no（はい or いいえ）answer will be given to the following ques
 6. 先生だった？　「はい、先生だった。」
 7. 小学校だった？　「いいえ、小学校ではなかった。」
 8. 子供？　「はい、子供だ。」
+
+## 1.2 Particles
